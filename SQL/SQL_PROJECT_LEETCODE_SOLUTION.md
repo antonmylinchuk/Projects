@@ -1,9 +1,5 @@
 # SQL Project - Leetcode task solution
 
-[ ] Give an appropriate main heading
-[ ] Create name of second heading
-[ ] Refactor document using technical style and impersonal language
-
 ---
 This document provides my solution and a detailed explanation of the Leetcode task called ['185. Department Top Three Salaries'](https://leetcode.com/problems/department-top-three-salaries/description/).
 
