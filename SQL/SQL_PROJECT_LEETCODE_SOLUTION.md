@@ -1,6 +1,5 @@
 # SQL Project - Leetcode task solution
 
----
 This document provides my solution and a detailed explanation of the Leetcode task called ['185. Department Top Three Salaries'](https://leetcode.com/problems/department-top-three-salaries/description/).
 
 
